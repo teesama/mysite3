@@ -34,8 +34,8 @@
           <i class="fa fa-pencil-square-o" aria-hidden="true"></i>
         </div>
         <div class="col-9">
-          <h3><a href="#">จัดการกีฬา</a></h3>
-          <p>จัดการแก้ไข การแข่งขัน</p>
+          <h3><a href="#">จัดการระดับชั้น</a></h3>
+          <p>จัดการแก้ไข ระดับชั้น</p>
         </div>
       </div>
     </div>
@@ -48,8 +48,8 @@
           <i class="fa fa-pencil-square-o" aria-hidden="true"></i>
         </div>
         <div class="col-9">
-          <h3><a href="#">จัดการนักกีฬา</a></h3>
-          <p>จัดการแก้ไข นักกีฬา</p>
+          <h3><a href="student.php">จัดการนักศึกษา</a></h3>
+          <p>จัดการแก้ไข นักศึกษา</p>
         </div>
       </div>
     </div>
@@ -62,7 +62,7 @@
           <i class="fa fa-pencil-square-o" aria-hidden="true"></i>
         </div>
         <div class="col-9">
-          <h3><a href="#">จัดการกีฬา</a></h3>
+          <h3><a href="player.php">จัดการกีฬา</a></h3>
           <p>จัดการแก้ไข การแข่งขัน</p>
         </div>
       </div>

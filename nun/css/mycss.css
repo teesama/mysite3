@@ -38,3 +38,7 @@ body {
     display: block;
     float: none;
 }
+
+.show_student {
+    margin-top: 20px;
+}
