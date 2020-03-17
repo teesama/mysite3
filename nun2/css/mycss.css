@@ -1,0 +1,40 @@
+body {
+    background-color: #00BCD4;
+    padding: 70px 0px;
+    font-family: 'Kanit', sans-serif;
+}
+.service-box {
+    background-color: #fff;
+    padding: 15px 20px;
+    border-radius: 8px;
+    margin: 15px 0px 15px;
+    transition: 0.5s;
+    border: 1px solid transparent;
+}
+.service-box:hover {
+    background-color: #bcfff9;
+    border-radius: 40px;
+    border: 1px solid #ddd;
+}
+.service-box:hover h3 a{
+	color: #00bcd4;
+}
+.service-box i {
+    font-size: 60px;
+    align-items: center;
+    display: flex;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    color: #989898;
+}
+.service-box h3 a {
+    text-decoration: none;
+    color: #FF9800;
+    font-size: 24px;
+}
+.service-box :before {
+    margin: 0 auto;
+    display: block;
+    float: none;
+}
