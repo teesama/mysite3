@@ -62,7 +62,7 @@
           <i class="fa fa-pencil-square-o" aria-hidden="true"></i>
         </div>
         <div class="col-9">
-          <h3><a href="team/player.php">จัดการกีฬา111</a></h3>
+          <h3><a href="team/team_ins.php">จัดการกีฬา111</a></h3>
           <p>จัดการแก้ไข การแข่งขัน</p>
         </div>
       </div>
